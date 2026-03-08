@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/nyc_ai_startups_map.html" }
+  ]
+}
